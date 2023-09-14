@@ -1,0 +1,10 @@
+vgamepad
+pyautogui
+opencv-python-headless
+opencv-python
+torch
+streamlit
+pydantic
+ultralytics
+numpy
+simpleaudio
