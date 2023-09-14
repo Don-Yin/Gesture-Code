@@ -13,7 +13,7 @@ situp = (
     .for_(0.1)
 )
 ```
-![](https://github.com/Don-Yin/Gesture-Code/public/cut_situp.gif)
+![](https://github.com/Don-Yin/Gesture-Code/tree/main/public/cut_situp.gif)
 
 **Squat**
 ```python
@@ -26,7 +26,7 @@ squat = (
     .for_(0.1)
 )
 ```
-![](https://github.com/Don-Yin/Gesture-Code/public/cut_squat.gif)
+![](https://github.com/Don-Yin/Gesture-Code/tree/main/public/cut_squat.gif)
 
 **Clap**
 ```python
@@ -39,7 +39,7 @@ clap = (
     .for_(0.1)
 )
 ```
-![](https://github.com/Don-Yin/Gesture-Code/public/cut_clap.gif)
+![](https://github.com/Don-Yin/Gesture-Code/tree/main/public/cut_clap.gif)
 
 ## Application
 
