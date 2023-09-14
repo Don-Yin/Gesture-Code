@@ -2,7 +2,7 @@
 This is intended to be a (presumebly) intuitive framwork that enables the coding of body gesture events using YOLOv8 from sUltralytics.
 
 ## Quick Examples
-**Situp Gesture**
+**Situp**
 ```python
 situp = (
     Gestures()
@@ -13,9 +13,9 @@ situp = (
     .for_(0.1)
 )
 ```
-*Demo video coming soon*
+![](https://github.com/Don-Yin/Gesture-Code/public/cut_situp.gif)
 
-**Squat Gesture**
+**Squat**
 ```python
 squat = (
     Gestures()
@@ -26,9 +26,9 @@ squat = (
     .for_(0.1)
 )
 ```
-*Demo video coming soon*
+![](https://github.com/Don-Yin/Gesture-Code/public/cut_squat.gif)
 
-**Clap Gesture**
+**Clap**
 ```python
 clap = (
     Gestures()
@@ -39,12 +39,12 @@ clap = (
     .for_(0.1)
 )
 ```
-*Demo video coming soon*
+![](https://github.com/Don-Yin/Gesture-Code/public/cut_clap.gif)
 
 ## Application
 
 ### Body Controller for Simple Gaming
-*Demo video coming soon*
+https://www.bilibili.com/video/BV13V411P7ZA/
 
-## Disclaimer
+## Note
 This project is under development, with further refinements and feature additions in progress. Your feedback and contributions are highly appreciated.
