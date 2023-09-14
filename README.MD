@@ -14,6 +14,7 @@ situp = (
 )
 ```
 ![](https://github.com/Don-Yin/Gesture-Code/tree/main/public/cut_situp.gif)
+![](public/cut_situp.gif)
 
 **Squat**
 ```python
