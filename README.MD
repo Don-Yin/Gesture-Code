@@ -2,18 +2,18 @@
 This is intended to be a (presumebly) intuitive framwork that enables the coding of body gesture events using YOLOv8 from sUltralytics.
 
 ## Quick Examples
-**Situp**
+**Clap**
 ```python
-situp = (
+clap = (
     Gestures()
-    .point(["LEFT_KNEE", "RIGHT_KNEE"])
-    .goes_near(["NOSE"])
+    .point(["LEFT_WRIST"])
+    .goes_near(["RIGHT_WRIST"])
     .for_(0.1)
-    .goes_away(["NOSE"])
+    .goes_away(["RIGHT_WRIST"])
     .for_(0.1)
 )
 ```
-![](https://github.com/Don-Yin/Gesture-Code/blob/52e17557121583100d92f122b212170f7ec5fcd1/public/cut_situp.gif)
+![](https://github.com/Don-Yin/Gesture-Code/blob/5f97236426c9c420cb5a4427280f8fde93e47e97/public/cut_clap.gif)
 
 **Squat**
 ```python
@@ -26,20 +26,20 @@ squat = (
     .for_(0.1)
 )
 ```
-![](https://github.com/Don-Yin/Gesture-Code/tree/main/public/cut_squat.gif)
+![](https://github.com/Don-Yin/Gesture-Code/blob/5f97236426c9c420cb5a4427280f8fde93e47e97/public/cut_squat.gif)
 
-**Clap**
+**Situp**
 ```python
-clap = (
+situp = (
     Gestures()
-    .point(["LEFT_WRIST"])
-    .goes_near(["RIGHT_WRIST"])
+    .point(["LEFT_KNEE", "RIGHT_KNEE"])
+    .goes_near(["NOSE"])
     .for_(0.1)
-    .goes_away(["RIGHT_WRIST"])
+    .goes_away(["NOSE"])
     .for_(0.1)
 )
 ```
-![](https://github.com/Don-Yin/Gesture-Code/tree/main/public/cut_clap.gif)
+![](https://github.com/Don-Yin/Gesture-Code/blob/52e17557121583100d92f122b212170f7ec5fcd1/public/cut_situp.gif)
 
 ## Application
 
