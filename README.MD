@@ -13,8 +13,7 @@ situp = (
     .for_(0.1)
 )
 ```
-![](https://github.com/Don-Yin/Gesture-Code/tree/main/public/cut_situp.gif)
-![](public/cut_situp.gif)
+![](https://github.com/Don-Yin/Gesture-Code/blob/52e17557121583100d92f122b212170f7ec5fcd1/public/cut_situp.gif)
 
 **Squat**
 ```python
