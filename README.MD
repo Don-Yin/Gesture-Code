@@ -28,18 +28,18 @@ squat = (
 ```
 ![](https://github.com/Don-Yin/Gesture-Code/blob/5f97236426c9c420cb5a4427280f8fde93e47e97/public/cut_squat.gif)
 
-**Situp**
-```python
-situp = (
-    Gestures()
-    .point(["LEFT_KNEE", "RIGHT_KNEE"])
-    .goes_near(["NOSE"])
-    .for_(0.1)
-    .goes_away(["NOSE"])
-    .for_(0.1)
-)
-```
-![](https://github.com/Don-Yin/Gesture-Code/blob/52e17557121583100d92f122b212170f7ec5fcd1/public/cut_situp.gif)
+# **Situp**
+# ```python
+# situp = (
+#     Gestures()
+#     .point(["LEFT_KNEE", "RIGHT_KNEE"])
+#     .goes_near(["NOSE"])
+#     .for_(0.1)
+#     .goes_away(["NOSE"])
+#    .for_(0.1)
+#  )
+# ```
+# ![](https://github.com/Don-Yin/Gesture-Code/blob/52e17557121583100d92f122b212170f7ec5fcd1/public/cut_situp.gif)
 
 ## Application
 
